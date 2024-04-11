@@ -3,7 +3,7 @@
 This repository provides code of the following paper:
 
 > [Human-AI Collaborative Taxonomy Construction: A Case Study in Profession-Specific Writing Assistants]() <br>
-> [Minhwa Lee](https://mimn97.github.io/), Zae Myung Kim, Vivek A. Khetan, [Dongyeop Kang](https://dykang.github.io/) <br>
+> [Minhwa Lee](https://mimn97.github.io/), [Zae Myung Kim](https://zaemyung.github.io/), Vivek A. Khetan, [Dongyeop Kang](https://dykang.github.io/) <br>
 > The 3rd In2Writing Workshop @ CHI 2024
 
 
