@@ -8,7 +8,7 @@ This repository provides code of the following paper:
 
 
 
-## [1] How to run remotely (w/ ngrok)
+## How to run
 
 ```bash
 conda create --name cotax python==3.8
